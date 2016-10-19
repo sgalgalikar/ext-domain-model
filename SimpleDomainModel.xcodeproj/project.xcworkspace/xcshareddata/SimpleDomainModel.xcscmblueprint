@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CA4199041EEC6C490FDF38303AE912BB6ACA6DEA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7576701EB8C5AD048EFAD48A4C090D7088455A6C" : 9223372036854775807,
+    "CA4199041EEC6C490FDF38303AE912BB6ACA6DEA" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4EE3E43D-ECA9-482A-9C12-307F07468C46",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7576701EB8C5AD048EFAD48A4C090D7088455A6C" : "",
+    "CA4199041EEC6C490FDF38303AE912BB6ACA6DEA" : "SimpleDomainModel\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SimpleDomainModel",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SimpleDomainModel.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/TedNeward\/uwsimpledomainmodel.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7576701EB8C5AD048EFAD48A4C090D7088455A6C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sgalgalikar\/domain-model.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CA4199041EEC6C490FDF38303AE912BB6ACA6DEA"
+    }
+  ]
+}
